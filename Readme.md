@@ -60,9 +60,8 @@ def is_prime(n):
 ```
 
 ## Configuration
-Modify `config.json` to adjust model parameters such as:
+Modify to adjust model parameters such as:
 - Temperature (controls randomness of output)
-- Max tokens
 - Programming language preference
 
 ## Roadmap
